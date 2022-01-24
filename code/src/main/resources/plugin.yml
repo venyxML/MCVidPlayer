@@ -1,0 +1,20 @@
+name: VideoPlayer
+version: ${project.version}
+main: io.github.venyxml.videoplayer.VideoPlayer
+api-version: 1.16
+prefix: VIDPLAYER
+authors: [ venyx ]
+description: It's a video player. Will this plugin work? Guess I'll find out.
+commands:
+  im-url:
+    description: Displays an image from a URL using blocks
+    usage: /<command> <pos1> <pos2> <url>
+  im-loc:
+    description: Displays an image from a local file using blocks
+    usage: /<command> <pos1> <pos2> <path>
+  vid-start:
+    description: Projects video onto in-game canvas
+    usage: /<command> <pos1> <pos2>
+  vid-stop:
+    description: Closes video canvas
+    usage: /<command>
