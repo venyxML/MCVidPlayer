@@ -3,7 +3,7 @@ screengrabs and plays videos in minecraft
 
 <b>! this is a very user-unfriendly plugin, don't try using unless you have some familiarity with coding !</b>
 
-I may come revist the code to be much more customizeable and user-friendly, but as a full-time student, dedicating extra time is difficult without the financial support to incentivize it so I don't want to make any promises. There are much more optimized versions out there I'm sure, this was mostly just a project for funsies :)
+I may come revist the code to be much more customizeable and user-friendly, but as a full-time researcher, dedicating extra time is difficult without the financial support to incentivize it so I don't want to make any promises. There are much more optimized versions out there I'm sure, this was mostly just a project for funsies :)
 
 ## Versions Supported & Tested
 
